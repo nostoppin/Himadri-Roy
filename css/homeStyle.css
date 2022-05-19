@@ -1,0 +1,18 @@
+/* import from fonts.css*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.header_area .main_menu .nav-item .nav-link
+{
+    font-family: "Raleway";
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.5rem;
+    color: black;
+}
+
+.header_area .main_menu .navbar
+{
+    padding: 0 1rem 0rem 1rem;
+}
+
